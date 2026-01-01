@@ -17,7 +17,7 @@ Deep learning pipeline to classify breast cancer from mammogram images using CBI
 ## Project Structure
 breast-cancer-classification-advanced/
 │
-├── data/                      # (not uploaded to GitHub, ignored in .gitignore)
+├── data/                     
 │   ├── train/
 │   ├── val/
 │   └── test/
